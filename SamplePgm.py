@@ -1,6 +1,6 @@
 a = Int(input("Enter a :"))
 b = Int(input("Enter b :"))
-if(a > b):
-    print("a is greater than b")
-else:
+if(b > a):
     print("b is greater than a")
+else:
+    print("a is greater than b")
